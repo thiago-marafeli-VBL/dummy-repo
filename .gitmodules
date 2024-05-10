@@ -1,0 +1,6 @@
+[submodule "dummy-repo-sub1"]
+	path = dummy-repo-sub1
+	url = https://github.com/thiago-marafeli-VBL/dummy-repo-sub1.git
+[submodule "dummy-repo-sub2"]
+	path = dummy-repo-sub2
+	url = https://github.com/thiago-marafeli-VBL/dummy-repo-sub2.git
